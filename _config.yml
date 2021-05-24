@@ -1,5 +1,7 @@
 title: beszelnijo
 url: "https://www.beszelnijo.hu"
+baseurl: /
+permalink: '/:title/'
 layout_style: overflow
 palette: 
 logo: "images/speaking.png"

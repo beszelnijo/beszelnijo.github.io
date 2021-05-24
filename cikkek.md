@@ -18,7 +18,7 @@ image: images/avatar.jpg
 [Babahordozás felsőfokon – Kávészünet egy kismamával 9.](https://www.abitbetter.eu/mutass_peldat/babahordozas-felsofokon-kaveszunet-egy-kismamaval-9/){:target="_blank"}  
 [Ismerkedésem a mosható pelenkával – Kávészünet egy kismamával 8.](https://www.abitbetter.eu/mutass_peldat/ismerkedesem-a-moshato-pelenkaval-kaveszunet-egy-kismamaval-8/){:target="_blank"}  
 [Élet egy újszülöttel – Kávészünet egy kismamával 7.](https://www.abitbetter.eu/mutass_peldat/elet-egy-ujszulottel-kaveszunet-egy-kismamaval-7/){:target="_blank"}  
-[A szoptatás nehézségei (és szépségei) – Kávészünet egy kismamával 6.](https://www.abitbetter.eu/mutass_peldat/a-szoptatas-nehezsegei-es-szepsegei-kaveszunet-egy-kismamaval-6/){:target="_blank"} 
+[A szoptatás nehézségei (és szépségei) – Kávészünet egy kismamával 6.](https://www.abitbetter.eu/mutass_peldat/a-szoptatas-nehezsegei-es-szepsegei-kaveszunet-egy-kismamaval-6/){:target="_blank"}  
 [Babakelengye otthonra – Kávészünet egy kismamával 5.](https://www.abitbetter.eu/mutass_peldat/babakelengye-otthonra-kaveszunet-egy-kismamaval-5/){:target="_blank"}  
 [Néhány nap a gyermekágyas osztályon – Kávészünet egy kismamával 4.](https://www.abitbetter.eu/mutass_peldat/nehany-nap-a-gyermekagyas-osztalyon-kaveszunet-egy-kismamaval-4/){:target="_blank"}  
 [Csak a hasznosat: kelengye, tanácsok – Kávészünet egy kismamával 3.](https://www.abitbetter.eu/mutass_peldat/csak-a-hasznosat-kelengye-tanacsok-kaveszunet-egy-kismamaval-3/){:target="_blank"}  
