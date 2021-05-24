@@ -19,7 +19,7 @@ header:
       url: /rolammondtak/
       style: link
     - label: Cikkek
-      url: /Cikkek/
+      url: /cikkek/
       style: link
     - label: Kapcsolat
       url: /kapcsolat/
