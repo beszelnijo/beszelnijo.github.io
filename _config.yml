@@ -1,0 +1,33 @@
+title: beszelnijo
+url: "https://www.beszelnijo.hu"
+layout_style: overflow
+palette: 
+logo: "images/speaking.png"
+locale: "hu"
+header:
+  has_nav: true
+  nav_links:
+    - label: Kezdőoldal
+      url: /
+      style: link
+    - label: Rólam
+      url: /rolam/
+      style: link
+    - label: Rólam mondták
+      url: /rolammondtak/
+      style: link
+    - label: Cikkek
+      url: /Cikkek/
+      style: link
+    - label: Kapcsolat
+      url: /kapcsolat/
+      style: link
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+  sass_dir: _sass
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
