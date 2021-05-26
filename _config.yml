@@ -21,6 +21,9 @@ header:
     - label: Cikkek
       url: /cikkek/
       style: link
+    - label: Írások
+      url: /irasok/
+      style: link
     - label: Kapcsolat
       url: /kapcsolat/
       style: link
