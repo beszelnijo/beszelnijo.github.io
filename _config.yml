@@ -36,7 +36,7 @@ header:
       new_window: true
 footer:
   content: >-
-    Minden jog fentartva
+    Minden jog fenntartva
 sass:
   indentWidth: 4
   style: nested
