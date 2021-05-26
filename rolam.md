@@ -5,7 +5,8 @@ description: Rólam részletesebben
 image: images/avatar.jpg
 ---
 
-Krániczné Dr. Szabó Ágnes
+Krániczné Dr. Szabó Ágnes  
+
 ![Krániczné Dr. Szabó Ágnes](/images/avatar.jpg)
 #### Tanulmányok
 2007-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyar alapszakos bölcsész, művelődéstudomány szakirány (BA)  
