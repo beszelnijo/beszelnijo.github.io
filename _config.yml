@@ -27,6 +27,16 @@ header:
     - label: Kapcsolat
       url: /kapcsolat/
       style: link
+  has_social: true
+  social_links:
+    - label: facebook
+      url: https://www.facebook.com/SzaboAgnes89/
+      style: icon
+      icon_class: facebook
+      new_window: true
+footer:
+  content: >-
+    Minden jog fentartva
 sass:
   indentWidth: 4
   style: nested
