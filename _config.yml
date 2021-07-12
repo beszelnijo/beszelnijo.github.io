@@ -6,6 +6,10 @@ layout_style: overflow
 palette: 
 logo: "images/speaking.png"
 locale: "hu"
+# Google Analytics
+ga_track_id: 'G-28B92VCC9R'
+ga_domain: huangxuan.me
+
 header:
   has_nav: true
   nav_links:
@@ -36,7 +40,7 @@ header:
       new_window: true
 footer:
   content: >-
-    Minden jog fenntartva
+    © Minden jog fenntartva - 2021 | <a href="/gdpr">GDPR</a>
 sass:
   indentWidth: 4
   style: nested
