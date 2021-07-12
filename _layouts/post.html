@@ -19,10 +19,16 @@ layout: body
     </div>
     {% endif %}
     <div class="post-content inner-sm">
+      <div class="post-author">
+        <img src="{{ 'images\avatar_100.jpg' | relative_url }}" alt="Krániczné Dr. Szabó Ágnes" />
+        <div class="post-autho-info"> 
+          <h4>Krániczné Dr. Szabó Ágnes</h4>
+          <time class="published"
+          datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}"> {% include date.html date=page.date %}</time>
+        </div>
+      </div>
       {{ content }}
     </div>
     <footer class="post-meta inner-sm">
-      <time class="published"
-        datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%Y.%m.%d'  }}</time>
     </footer>
   </article><!-- .post -->
