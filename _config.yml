@@ -40,7 +40,7 @@ header:
       new_window: true
 footer:
   content: >-
-    © Minden jog fenntartva - 2021 | <a href="/gdpr">GDPR</a>
+    © Minden jog fenntartva - 2022 | <a href="/gdpr">GDPR</a>
 sass:
   indentWidth: 4
   style: nested
