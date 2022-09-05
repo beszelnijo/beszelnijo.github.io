@@ -16,6 +16,9 @@ header:
     - label: Kezdőoldal
       url: /
       style: link
+    - label: hírek/aktuális
+      url: /hirek_aktualis/
+      style: link
     - label: Rólam
       url: /rolam/
       style: link
@@ -28,16 +31,22 @@ header:
     - label: Írások
       url: /irasok/
       style: link
+    - label: Árak
+      url: /arak/
+      style: link
     - label: Kapcsolat
       url: /kapcsolat/
       style: link
   has_social: true
   social_links:
     - label: facebook
-      url: https://www.facebook.com/SzaboAgnes89/
+      url: https://www.facebook.com/groups/beszelnijo
       style: icon
       icon_class: facebook
       new_window: true
+collections:
+  news:
+    output: true
 footer:
   content: >-
     © Minden jog fenntartva - 2022 | <a href="/gdpr">GDPR</a>
