@@ -23,7 +23,7 @@ A babák keze az első három hónapban még leginkább zárt ökölben van. A k
 {: .bekezdes}
 A 6 és 9 hónap közötti babáknál alakul ki a csippentő mozgás. Ekkor kezdi el megtartani a tárgyakat. Egyszerre dolgozik a kezeivel, és a megfogott tárgyakat gyakran a szájába is veszi.
 {: .bekezdes}
-Körülbelül 9–12 hónapos kor körül a gyermek már képes marokra fogni a krétát, vagy más ezközt a rajzoláshoz. Ez a marokra fogás aztán néhány évig még megmarad rajzolás során. Ebben az életkorban már elkezdi a könyvek lapozgatását, igaz, hogy egyszerre még több oldalt hajt át. A testközépvonal átlépése is ebben a szakaszban jelenik meg.
+Körülbelül 9–12 hónapos kor körül a gyermek már képes marokra fogni a krétát, vagy más eszközt a rajzoláshoz. Ez a marokra fogás aztán néhány évig még megmarad rajzolás során. Ebben az életkorban már elkezdi a könyvek lapozgatását, igaz, hogy egyszerre még több oldalt hajt át. A testközépvonal átlépése is ebben a szakaszban jelenik meg.
 {: .bekezdes}
 A rajzolás kistestvére, a firkálás már nagyon korán, 1–1,5 éves korban megjelenhet. Ebben a korai időszakban fontos, hogy a gyermek minél többféle eszközzel megismerkedhessen. Mivel a kezei, a mozgása még nem áll készen az apró minták rajzolására, fontos, hogy megfelelő méretű ceruzákat, zsírkrétákat, rajzeszközöket kínáljunk fel neki. A felület is legyen elég nagy az alkotáshoz. Ezzel nemcsak a gyermeknek teszünk jót, hanem a bútorainkat is megvédjük. Legjobb egy nagyméretű barna csomagolópapíron kezdeni a kreatívkodást. Mutatok néhány olyan eszközt, amit egészen pici gyermekeknek is bátran odaadhatunk (természetesen szülői felügyelettel). Mivel nálunk a természetes alapanyag is fontos, most olyan eszközöket mutatok, amik még ennek a szempontnak is megfelelnek.
 {: .bekezdes}
