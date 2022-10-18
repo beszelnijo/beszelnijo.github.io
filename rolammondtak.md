@@ -21,3 +21,8 @@ Sose felejtem el a bíztatását, a rengeteg kedves szavát, a sok segítséget,
 Azoknak a szülőknek ajánlom Ágit, akik fontosnak tartják, hogy a gyerekük úgy fejlődjön és tanuljon, hogy azt ne feszélyezve tegye. Soma a mai napig emlegeti az órákat, ahol megtanult tanulni 🙂. <cite>Soma anyukája</cite>
 
 >Ági nekünk te voltál a megmentőnk hogy eltudtál jönni házhoz segíteni Vivinek. Amiért nagyon nagyon hálásak vagyunk. Mindig kedvesen beszéltél hozzá és Vivi is szeretett. Sőt amit adtál kis plüss mókust még mindig megvan és szokta mondani hogy Ági nénitől kaptam. Szóval nem felejtett el. További sok sikert neked. Nekünk sokat segítettél. Biztos így lesz másokkal is ♥️♥️♥️ Ölelés <cite>Vivi anyukája</cite>
+
+>A foglalkozások mindig jó hangulatban telnek, látszik, hogy szereti a gyerekeket. Jó kis játékok,kellékek amik nem feltétlenül vannak  minden háznál. Nagyon kedves, barátságos a gyerekekkel és a szülőkkel egyaránt.  Látszik, hogy minden egyes alkalomra lelkesen és szívvel készül.  Bár eddig csak kétszer voltunk kislányommal, de 2/2 jó kis élmény volt. Jó, hogy van ilyen kis anyuka kimozditó program 🙂 <cite>Szalay Evelin</cite>
+
+>Sokat segít nekem a foglalkozás, megtanulom miként foglaljam le a babámat. 🥰 Gyakran alkalmazom a nálad tanultakat!! 😘
+Az ajánlott könyvek is nagyon tetszenek mindkettőnknek, sokszor olvasok belőlük. <cite>Bartos-Mészáros Viktória</cite>
