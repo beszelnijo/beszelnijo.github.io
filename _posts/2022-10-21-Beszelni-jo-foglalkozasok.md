@@ -2,14 +2,14 @@
 layout: post
 title: Beszélni jó! foglalkozások
 description: 2022. szeptemberétől Beszélni jó! címmel beszédindító foglalkozásokat tartok Fertőszentmiklóson. Két életkori csoportban várom a gyermekeket és szüleiket a közös játékra.  
-image: images/irkafirka.jpg
+image: images/foglalkozas.jpg
 excerpt: >-
   2022. szeptemberétől Beszélni jó! címmel beszédindító foglalkozásokat tartok Fertőszentmiklóson. Két életkori csoportban várom a gyermekeket és szüleiket a közös játékra. 
 date: '2022-10-21'
-thumb_img_path: images/irkafirka.jpg
-thumb_img_alt: Irkafirka
-content_img_path: images/irkafirka.jpg
-content_img_alt: Irkafirka
+thumb_img_path: images/foglalkozas.jpg
+thumb_img_alt: Foglalkozás
+content_img_path: images/foglalkozas.jpg
+content_img_alt: Foglalkozás
 ---
 2022. szeptemberétől Beszélni jó! címmel beszédindító foglalkozásokat tartok Fertőszentmiklóson. Két életkori csoportban várom a gyermekeket és szüleiket a közös játékra. 
 {: .bekezdes}
@@ -18,7 +18,7 @@ content_img_alt: Irkafirka
 ![Alagut](/images/alagut.jpg){: .kep}
 A foglalkozások mindig egy közös mesével vagy verssel kezdődnek, amit én olvasok fel valamilyen szép, színes könyvből. Ez a szülőket és a gyermekeket is megérkezteti a foglalkozásra, valamint ötleteket ad a szülőknek, hogy otthon milyen olvasmányokat érdemes az adott életkorban elővenni.
 {: .bekezdes}
-![Csoport](/images/csoport.jpg){: .kep}
+![Csoport](/images/foglalkozas.jpg){: .kep}
 A mese, vers után egy körtánc következik. A kisebb gyermekek a szülők ölében, a nagyobbak önállóan vesznek részt a közös éneklésben, táncban.
 {: .bekezdes}
 A földön ülve mondókák segítségével mozgatjuk át a babákat, totyogókat, kisgyermekeket. Sokszor ismétlünk, hogy a kicsik megszokják, megszeressék ezt a tevékenységet. A mozgás/mozgatás és a beszéd/éneklés/mondókázás együttes alkalmazása nagyszerű fejlesztő hatással van. Egyszerű, mégis hatékonyan támogatja az idegrendszer érését.
