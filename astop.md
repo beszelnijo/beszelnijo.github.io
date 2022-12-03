@@ -10,7 +10,9 @@ Az AStOP egy lépcsőzetesen felépített dinamikus auditív stresszoldó progra
 {: .bekezdes}
 Mindezt egy dinamikus tünetlap segítségével térképezzük fel, ami életszakaszonként rámutat az okok típusára, időtartamukra és mértékükre. 
 {: .bekezdes}
+
 &nbsp;  
+
 Az információk alapján a családdal közösen törekszünk a helyes auditív szokások és környezeti tényezők kialakítására, és szükség szerint sor kerül az egyedi paraméterekkel rendelkező, színes zajokkal kombinált, tervezett sorrendű zeneprogram hallgatására. Mindez minimum 1x10,  maximum 3x10 alkalmas blokkokban, napi nagyjából 20 perces zenehallgatással valósul meg, mely történhet személyesen, vagy online. Lényege: A zene agyra gyakorolt jutalmazó hatását (memória, figyelem, viselkedés, végrehajtó funkciók, alvás minőség javulás, stresszoldás stb) plusz stimulussal fokozzuk, melyet különböző tulajdonságú színes zajokkal érünk el. Mindez egyéni igény szerint történik.
 {: .bekezdes}
 A program kiváló előkészítője, kísérője, vagy kiegészítője lehet egy-egy idegrendszerfejlesztő mozgásterápiának, logopédiai terápiának, vagy beszédértést, -észlelést fejlesztő folyamatnak, hallástréningnek, önismereti útnak, életvezetési technikák elsajátításának stb…
