@@ -48,3 +48,6 @@ Az auditív stressz nem hallási érzékenység!
 {: .bekezdes .terkoz-elotte}
 Az auditív stressz bárkinél előfordulhat, egészséges gyermeknél és felnőttnél egyaránt, míg a hallási érzékenység az idegrendszer fejlődési problémáinak, neurodevelopmentális rendellenességeinek kísérő jelensége.
 {: .bekezdes}
+A program pozitív visszajelzések alapján segítséget nyújt az általános stresszoldás területén, valamint ritkul, vagy megoldódik általa az éjszakai bepisilés, felriadás, valamint a nyugtalan alvás.
+{: .bekezdes}
+A programot kidolgozta: Szücs Rita
