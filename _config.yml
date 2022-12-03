@@ -19,6 +19,9 @@ header:
     - label: hírek/aktuális
       url: /hirek_aktualis/
       style: link
+    - label: AStOP
+      url: /astop/
+      style: link
     - label: Rólam
       url: /rolam/
       style: link
