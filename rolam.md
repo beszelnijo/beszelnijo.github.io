@@ -40,7 +40,7 @@ Krániczné Dr. Szabó Ágnes
 2018 Sztehlo Gábor Evangélikus Óvoda, Általános Iskola és Gimnázium Fecskefészek Óvoda, logopédus, hallássérültek pedagógusa  
 2017-2021 Gyömrői Egységes Gyógypedagógiai Módszertani Intézmény, Általános Iskola, Szakiskola, Készségfejlesztő Iskola, Kollégium és Fejlesztő Nevelés- Oktatást Végző Iskola(Teleki Kastély), utazó gyógypedagógus, logopédus, hallássérültek pedagógusa, munkaközösség-vezető  
 2018-2020 Eötvös Loránd Tudományegyetem Bárczi Gusztáv Gyógypedagógiai Kar, óraadó  
-2022- [Debreceni Egyetem Gyermeknevelési és Gyógypedagógiai Kar, Főiskolai docens](https://unideb.hu/phonebook/department/724)
+2022- [Debreceni Egyetem Gyermeknevelési és Gyógypedagógiai Kar, Főiskolai docens](https://unideb.hu/phonebook/department/724){:target="_blank"}  
 
 #### Kutatási, fejlesztési területek
 Hallássérültek lexikális hozzáférése  
