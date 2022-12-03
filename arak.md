@@ -15,3 +15,5 @@ description: Árak
 * Röjtökmuzsaj
 * Fertőszentmiklós
 * Sopron
+* Sopronkövesd
+* Pereszteg
