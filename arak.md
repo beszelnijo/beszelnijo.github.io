@@ -9,6 +9,7 @@ description: Árak
 - Részletes írásbeli szakvélemény további: 7.000 Ft
 - Szülőkonzultáció (30 perc): 5.000 Ft
 - Egyéni fejlesztés (45 perc): 6.000 Ft
+- AStOP (3*10 alkalom): 60.000 Ft
 
 ## Helyszínek
 * Röjtökmuzsaj
