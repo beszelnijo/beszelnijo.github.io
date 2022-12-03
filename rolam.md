@@ -7,7 +7,7 @@ image: images/avatar.jpg
 
 Krániczné Dr. Szabó Ágnes  
 
-![Krániczné Dr. Szabó Ágnes](/images/avatar.jpg)
+![Krániczné Dr. Szabó Ágnes](/images/dr.szabo_agnes.jpg)
 #### Tanulmányok
 2007-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyar alapszakos bölcsész, művelődéstudomány szakirány (BA)  
 2009-2010 Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, kísérleti és alkalmazott fonetika című önálló program  
@@ -27,6 +27,7 @@ Krániczné Dr. Szabó Ágnes
 * NILD I. blokk (NILD gyakornok) (60 órás képzés)
 * NILD II. blokk (NILD gyakornok) (60 órás képzés)
 * NILD III. blokk (NILD terapeuta) (40 órás akkreditált képzés)
+* AStOP Auditív StresszOldó Program (30 órás képzés)
 
 #### Munkahelyek
 2013 „Jó Pásztor” Keresztyén Általános Iskola, magyar nyelv és irodalom szakos tanár, osztályfőnök  
@@ -39,6 +40,7 @@ Krániczné Dr. Szabó Ágnes
 2018 Sztehlo Gábor Evangélikus Óvoda, Általános Iskola és Gimnázium Fecskefészek Óvoda, logopédus, hallássérültek pedagógusa  
 2017-2021 Gyömrői Egységes Gyógypedagógiai Módszertani Intézmény, Általános Iskola, Szakiskola, Készségfejlesztő Iskola, Kollégium és Fejlesztő Nevelés- Oktatást Végző Iskola(Teleki Kastély), utazó gyógypedagógus, logopédus, hallássérültek pedagógusa, munkaközösség-vezető  
 2018-2020 Eötvös Loránd Tudományegyetem Bárczi Gusztáv Gyógypedagógiai Kar, óraadó  
+2022- [Debreceni Egyetem Gyermeknevelési és Gyógypedagógiai Kar, Főiskolai docens](https://unideb.hu/phonebook/department/724)
 
 #### Kutatási, fejlesztési területek
 Hallássérültek lexikális hozzáférése  
@@ -68,6 +70,7 @@ Szabó Ágnes – Bóna Judit – Babutsán Rita – Steklács János (2019): Ha
 Krániczné Szabó Ágnes (2019): Szövegértés alapú narratívák hallássérült középiskolásoknál. In.: Lőrik József (szerk.) Logopédia. Budapest. 48–60.  
 Teljes publikációs lista a Magyar Tudományos Művek Tárában  
 Tudományos közlemények a Magyar Tudományos Művek Tárában  
+Krániczné Szabó Ágnes (2022): A NILD fejlesztések tanulsága sajátos nevelési igényű általános iskolás tanulóknál. In: Bóna Judit – Csárdás László (szerk.) Sokszínű beszédtudomány. Akadémiai Kiadó
 
 #### Elismerések
 Kazinczy Emlékérem, országos 6. helyezés (2012)  
