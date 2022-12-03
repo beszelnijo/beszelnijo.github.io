@@ -17,14 +17,14 @@ A program kiváló előkészítője, kísérője, vagy kiegészítője lehet egy
 {: .bekezdes}
 
 FONTOS:
-{: .nincs-terkoz .terkoz-elotte}}
+{: .nincs-terkoz .terkoz-elotte}
 Betegséget nem kezelünk vele.  
 Nem hallástréning!  
 Nem relaxációs zene!  
 Nem helyettesít pszichoterápiát!  
   
 Könnyebbséget, plusz segítséget jelent:
-{: .nincs-terkoz .terkoz-elotte}}
+{: .nincs-terkoz .terkoz-elotte}
 * SPD – szenzoros feldolgozási zavarral, 
 * ADHD – figyelemhiányos hiperaktivitás-zavarral,
 * ADD – figyelemzavarral érintett egyéneknek, valamint szorongással, alvási nehézségekkel küzdő gyermekeknek és felnőtteknek az alap terápiájuk kiegészítéseként.
@@ -32,7 +32,7 @@ Könnyebbséget, plusz segítséget jelent:
   
 Mikor gondoljunk auditív stresszre?  
 Amikor akár hangingertípushoz, személyhez, körülményhez köthetően az alábbiakat tapasztaljuk:
-{: .nincs-terkoz .terkoz-elotte}}
+{: .nincs-terkoz .terkoz-elotte}
 * hallott ingerektől fáradás,
 * teljesítményromlás,
 * csend és nyugalom keresése,
@@ -45,6 +45,6 @@ Amikor akár hangingertípushoz, személyhez, körülményhez köthetően az al�
 * alvási nehézség.
   
 Az auditív stressz nem hallási érzékenység!
-{: .bekezdes .terkoz-elotte}}
+{: .bekezdes .terkoz-elotte}
 Az auditív stressz bárkinél előfordulhat, egészséges gyermeknél és felnőttnél egyaránt, míg a hallási érzékenység az idegrendszer fejlődési problémáinak, neurodevelopmentális rendellenességeinek kísérő jelensége.
 {: .bekezdes}
