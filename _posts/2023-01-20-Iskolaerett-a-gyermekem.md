@@ -11,7 +11,7 @@ thumb_img_alt: Olvasás
 content_img_path: images/olvasas.jpg
 content_img_alt: Olvasás
 ---
-A gyermek abban az évben, amelyben augusztus 31-ig a hatodik életévét betölti, tankötelessé válik. Indokolt esetben egy évig még maradhat óvodában, ha az Oktatási Hivatal is támogatja ezt a döntést. Ennek folyamatáról a következő oldalon található bővebb információ: [A tankötelezettség megkezdésének halasztása](https://www.oktatas.hu/kozneveles/tankotelezettseg/tankotelezettseg_halasztasa)
+A gyermek abban az évben, amelyben augusztus 31-ig a hatodik életévét betölti, tankötelessé válik. Indokolt esetben egy évig még maradhat óvodában, ha az Oktatási Hivatal is támogatja ezt a döntést. Ennek folyamatáról a következő oldalon található bővebb információ: [A tankötelezettség megkezdésének halasztása](https://www.oktatas.hu/kozneveles/tankotelezettseg/tankotelezettseg_halasztasa){:target="_blank"}  
 {: .bekezdes}
 ![Tábla](/images/tabla.jpg)
 {: .kep}
