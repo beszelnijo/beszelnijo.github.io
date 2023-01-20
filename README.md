@@ -25,4 +25,44 @@ https://themes.stackbit.com/demos/fresh/
 * codesandbox.io-ról lett letölve a template  https://codesandbox.io/s/github/stackbithq/stackbit-theme-fresh/tree/master/
 * régi github https://github.com/stackbithq/stackbit-theme-fresh az új https://github.com/stackbit
 * egy fork lehet: https://github.com/Atinux/stackbit-theme-fresh
-  
+
+## Formázások
+A Jekyll default Mardkown rendere a [Kramdown](https://jekyllrb.com/docs/configuration/markdown/), ami a markdown supersetje. 
+[Kramdown Quick Ref](https://kramdown.gettalong.org/quickref.html)  
+_sass/imports/_post.scss  
+
+bekezdes - sorkizárt, térköz bekezdés előtt 0.5em, első sor behuzás 1em
+kep - képközépre igazítása, felőtte utána 1em térköz
+felsorolas  - sorkizárt 
+Extra formázások:
+* {: .nincs-behuzas} - 0 em a behuzás  
+* {: .balra-igazitott} - balra igazítja a szövget
+* {: .kep-m} - közvetlenül a kép után, 150px szélességű lesz a kép
+
+Kövér:  **kiemelt**  
+Felsorolás: -  
+Számozás: 1. 
+Sortörés: két `Space` a sorvégén  
+Bekezdés: két `Enter` 
+Címsor: 2 vagy több `#` attól függ hányas címsort akarunk  
+Kép: ![Baba etettés](/images/baby-2423896_1920.jpg)    
+URL: [Cím](https://url){: target="_blank" rel="noopener noreferrer"}    
+
+
+### Post
+```
+<article class="post post-full">
+    <div class="post-content inner-sm">
+      ....
+    </div>  
+  </article>
+```
+
+### Page,News
+```
+<article class="post page post-full">
+    <div class="post-content inner-sm">
+       ...
+    </div>
+  </article>
+```

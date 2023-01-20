@@ -1,35 +1,46 @@
 .post-content {
-   .bekezdes {
-    text-align: justify;
-    text-indent: 1em;
-    margin: 0;
-    margin-top:0.5em;
-   }
-   .kep{
-      margin-top: 1em;
-      margin-bottom: 1em;
-      display:block;
-      margin-left:auto;
-      margin-right:auto;
-      &.kep-m{
-         width:150px;
-      }
-   }
-   .felsorolas{
-      text-align: justify;  
-   }
-   .nincs-terkoz{
+   >p {
+      text-align: justify;
+      text-indent: 1em;
       margin: 0;
+      margin-top: 0.5em;
+
+      >img {
+         text-indent: 0;
+         margin-top: 1em;
+         margin-bottom: 1em;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+
+         &.kep-m {
+            width: 150px;
+         }
+      }
+
    }
-   .terkoz-elotte
-   {
-      margin-top: 1em;
+
+   > p:has(+ul) {
+      text-indent: 0;
+   }
+
+   ul {
+      text-align: justify;
+   }
+
+   .nincs-behuzas {
+      text-indent: 0em;
+   }
+   .balra-igazitott{
+      text-align: left;
    }
 }
-.post-author{
+
+.post-author {
    display: flex;
    margin-bottom: 1em;
-   img {
+
+   >img {
       border: 2px solid _palette(accent);
       //box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
       border-radius: 100%;
@@ -39,10 +50,12 @@
       height: 60px;
       width: 60px;
    }
-   .post-autho-info{
+
+   .post-autho-info {
       margin-left: 0.5em;
-      h4{
-         margin:0
+
+      h4 {
+         margin: 0
       }
    }
 }
