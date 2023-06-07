@@ -29,6 +29,8 @@ Krániczné Dr. Szabó Ágnes
 * NILD II. blokk (NILD gyakornok) (60 órás képzés)
 * NILD III. blokk (NILD terapeuta) (40 órás akkreditált képzés)
 * AStOP Auditív StresszOldó Program (30 órás képzés)
+* A neuro-szenzomotoros szemléletű gyermekvizsgálatok interdiszciplináris modellje (33 órás továbbképzés)
+* Gyermekek felmérése és értékelése neuro-szenzomotoros szemléletű Longitudinális Komplex Vizsgálattal (LongiKid©) (84 órás továbbképzés)
 
 #### Munkahelyek
 **2013** „Jó Pásztor” Keresztyén Általános Iskola, magyar nyelv és irodalom szakos tanár, osztályfőnök  

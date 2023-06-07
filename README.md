@@ -26,6 +26,9 @@ https://themes.stackbit.com/demos/fresh/
 * régi github https://github.com/stackbithq/stackbit-theme-fresh az új https://github.com/stackbit
 * egy fork lehet: https://github.com/Atinux/stackbit-theme-fresh
 
+## docx to markdown
+ pandoc -f docx -t gfm '.\Longitudinális komplex vizsgálat.docx' -o log.md
+
 ## Formázások
 A Jekyll default Mardkown rendere a [Kramdown](https://jekyllrb.com/docs/configuration/markdown/), ami a markdown supersetje. 
 [Kramdown Quick Ref](https://kramdown.gettalong.org/quickref.html)  
