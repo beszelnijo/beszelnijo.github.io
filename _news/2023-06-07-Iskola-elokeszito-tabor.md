@@ -1,6 +1,6 @@
 ---
 title: Szeptemberi foglalkozás
-date: '2022-09-05'
+date: '2023-06-07'
 ---
 
 ![Beszélnijó](/images/beszelnijo.jpg)

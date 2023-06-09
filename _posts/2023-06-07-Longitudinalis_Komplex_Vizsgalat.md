@@ -2,7 +2,7 @@
 layout: post
 title: Longitudinális Komplex Vizsgálat
 description: A Longitudinális Komplex Vizsgálat (LongiKid©) 3 hónapos kortól 11 éves korig méri a gyermekek szenzoros, motoros, és kognitív részképességeit
-image: images/olvasas.jpg
+image: images/longitudinalis_fokep.jpg
 excerpt: >-
    A Longitudinális Komplex Vizsgálat (LongiKid©) 3 hónapos kortól 11 éves korig méri a gyermekek szenzoros, motoros, és kognitív részképességeit
 date: '2023-06-07'
