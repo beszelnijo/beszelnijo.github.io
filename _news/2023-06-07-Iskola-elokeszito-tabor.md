@@ -1,5 +1,5 @@
 ---
-title: Szeptemberi foglalkozás
+title: Foglalkozások, táborok
 date: '2023-06-07'
 ---
 
