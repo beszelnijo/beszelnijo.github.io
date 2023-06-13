@@ -15,7 +15,7 @@ description: Árak
 - Részletes írásbeli szakvélemény további: 7.000 Ft
 - Szülőkonzultáció (30 perc): 5.000 Ft
 - Egyéni fejlesztés (45 perc): 7.000 Ft
-- Csoportos iskolaelőkészítő foglalkozás (heti 1 x 1,5 óra komplex fejlesztő foglalkozás): 22.000 Ft/4 alkalom
+- Csoportos iskola-előkészítő foglalkozás NILD elemekkel (heti 1x80 perc): 4000 Ft
 - AStOP (3*10 alkalom): 60.000 Ft
 - Otthon végezhető gyakorlatok (egyéni elbírálás után): 10.000 Ft/hónap
 

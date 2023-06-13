@@ -26,3 +26,14 @@ Azoknak a szülőknek ajánlom Ágit, akik fontosnak tartják, hogy a gyerekük 
 
 >Sokat segít nekem a foglalkozás, megtanulom miként foglaljam le a babámat. 🥰 Gyakran alkalmazom a nálad tanultakat!! 😘
 Az ajánlott könyvek is nagyon tetszenek mindkettőnknek, sokszor olvasok belőlük. <cite>Bartos-Mészáros Viktória</cite>
+
+>Kedves Tanárnő!  
+Annyira örülök, és ezt Tanárnőnek köszönhetem! Ismerősi körben született egy kislány szájpadhasadékkal, csak a lágy szájpad érintett. A kórházban 2 hónap bent tartózkodás alatt nagyon kevés információt kaptak a rájuk váró folyamatról, és engem is megkérdeztek, hátha tudok valamit mondani. És tudtam! Annyira jó érzés, hogy tudtam segíteni, hasznos tanácsot adni annak alapján, amit tanultunk. A szülőket is sikerült megnyugtatni, kevesebb bennük a bizonytalanság. Köszönöm szépen a sok ismeretet, ami nem csupán elmélet, hanem nagyon is gyakorlatias tudnivalókat is tartalmaz!
+
+>Kedves Tanárnő!  
+Köszönöm az értékelést! Ezúttal szeretném én is megköszönni Önnek a magas színvonalú munkáját, amivel a konzultációkat megtartotta! Sajnos mi, akik nem tudunk a Bárczin tanulni, csak Hajdúböszörményben, az marad, hogy tanulhatunk azoktól, akik ott végeztek. Ha nem lenne olyan távol, bekéredzkednék Önhöz hospitálni, hogy lássam élőben is ezeket a terápiákat! 😊 További sok sikert kívánok a szakmai- és a magánéletben!
+
+>Számomra ez a könyv hol nyomasztó, hogy megható volt. Bevallom, magamtól sosem találtam volna rá erre a remekműre, de így elolvasva, azt mondhatom, hogy ettől jobb könyvet még nem olvastam. Sajnos számomra is ismerős volt a probléma, mert inkluzív osztályban tanító pedagógusként szembesültem vele volt osztályomban én is, hogy milyen egy szelektív mutista kislánnyal együtt dolgozni, és őt megfejteni, belelátni lelke mélyébe és segíteni neki, bizalmat kialakítani. Ott is hasonló otthoni bántalmazás állt a háttérben, melyre sikeresen rájöttünk és megszólaltattuk a kislányt rengeteg munkával és szeretettel, határozottsággal. Ezért is tudtam talán ennyire magaménak érezni a művet, és belelátni saját munkámat, tapasztalataimat, érzéseimet. Köszönöm Tanárnőnek a lehetőséget, egy életre szóló élményt kaptam a könyvön keresztül!
+
+>Kedves Tanárnő!  
+Nagyon szépen köszönöm a dicsérő szavakat! A tanórákon sokat tanultam Öntől, a gyakorlati tapasztalatainak és tippjeinek, szakirodalmi ajánlásainak megosztásával elősegítette a szakmai fejlődésünket, amiért nagyon hálás vagyok Önnek! Én is köszönöm Önnek ezt a félévet!
