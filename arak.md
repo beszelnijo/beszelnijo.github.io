@@ -18,6 +18,15 @@ description: Árak
 - Csoportos iskola-előkészítő foglalkozás NILD elemekkel (heti 1x80 perc): 4000 Ft
 - AStOP (3*10 alkalom): 60.000 Ft
 - Otthon végezhető gyakorlatok (egyéni elbírálás után): 10.000 Ft/hónap
+- Egyéni NILD terápia (80 perc) 9000 Ft
+- Egyéni NILD 30 napos bérlet 32.000 Ft
+- Csoportos NILD terápia (80 perc) 5000 Ft
+- Csoportos NILD 30 napos bérlet 18.000 Ft
+- Csoportos ovis képességfejlesztés (60 perc) 4500 Ft
+- Csoportos ovis képességfejlesztés 30 napos bérlet 15.000 Ft
+- Egyéni logopédia 30 napos bérlet 25.000 Ft
+- Csoportos iskola-előkészítő foglalkozás NILD elemekkel 30 napos bérlet 14.000 Ft
+- Testvérkedvezményekről érdeklődni privát üzenetben lehetséges
 
 ## Helyszínek
 * Röjtökmuzsaj
