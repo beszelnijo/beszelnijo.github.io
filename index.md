@@ -3,7 +3,7 @@ layout: page
 title: Üdvözlöm az oldalamon!
 description: Krániczné Dr. Szabó Ágnes logopédus, hallássérültek pedagógus, nyelv- és beszédfejlesztő tanár
 image: images/avatar.jpg
-img_path: images/child-865116_1920.jpg
+img_path: images/gyerek.jpg
 img_alt: ""
 ---
 Logopédust, hallássérültek pedagógusát, nyelv- és beszédfejlesztő tanárt keres? Vizsgálatot és terápiás foglalkozást kínálok Röjtökmuzsajon, Győr-Moson-Sopron megyében.  
