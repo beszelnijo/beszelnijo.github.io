@@ -6,7 +6,7 @@ image: images/avatar.jpg
 img_path: images/gyerek.jpg
 img_alt: ""
 ---
-Logopédust, hallássérültek pedagógusát, nyelv- és beszédfejlesztő tanárt keres? Vizsgálatot és terápiás foglalkozást kínálok Röjtökmuzsajon, Győr-Moson-Sopron megyében.  
+Logopédust, hallássérültek pedagógusát, nyelv- és beszédfejlesztő tanárt keres? Vizsgálatot és terápiás foglalkozást kínálok Hajdúböszörményben.  
 Hiszem, hogy beszélni jó, méghozzá már egészen kisgyermekkorban is! Amennyiben problémája van a beszéd bármely területén, keressen bizalommal!  
 
 ##### Milyen probléma esetén fordulhat hozzám? 

@@ -29,8 +29,4 @@ description: Árak
 - Testvérkedvezményekről érdeklődni privát üzenetben lehetséges
 
 ## Helyszínek
-* Röjtökmuzsaj
-* Fertőszentmiklós
-* Sopron
-* Sopronkövesd
-* Pereszteg
+* Hajdúböszörmény
