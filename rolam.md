@@ -5,7 +5,7 @@ description: Rólam részletesebben
 image: images/avatar.jpg
 ---
 
-Krániczné Dr. Szabó Ágnes  
+Dr. Szabó Ágnes 
 
 ![Krániczné Dr. Szabó Ágnes](/images/dr.szabo_agnes.jpg)
 #### Tanulmányok
@@ -31,6 +31,7 @@ Krániczné Dr. Szabó Ágnes
 * AStOP Auditív StresszOldó Program (30 órás képzés)
 * A neuro-szenzomotoros szemléletű gyermekvizsgálatok interdiszciplináris modellje (33 órás továbbképzés)
 * Gyermekek felmérése és értékelése neuro-szenzomotoros szemléletű Longitudinális Komplex Vizsgálattal (LongiKid©) (84 órás továbbképzés)
+* Organikusan éretlen gyermekek egyéni terápiája és felzárkóztatása egyéni Tervezett Szenzomotoros Tréninggel (TSMT-I) (120 órás továbbképzés)
 
 #### Munkahelyek
 **2013** „Jó Pásztor” Keresztyén Általános Iskola, magyar nyelv és irodalom szakos tanár, osztályfőnök  

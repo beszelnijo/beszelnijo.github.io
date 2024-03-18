@@ -37,3 +37,13 @@ Köszönöm az értékelést! Ezúttal szeretném én is megköszönni Önnek a 
 
 >Kedves Tanárnő!  
 Nagyon szépen köszönöm a dicsérő szavakat! A tanórákon sokat tanultam Öntől, a gyakorlati tapasztalatainak és tippjeinek, szakirodalmi ajánlásainak megosztásával elősegítette a szakmai fejlődésünket, amiért nagyon hálás vagyok Önnek! Én is köszönöm Önnek ezt a félévet!
+
+>Szia 
+Ma reggel láttuk az autódat iskolába menet. Mondtam Gyerekeknek Ági néni pakol biztos. Kis Virág elsírta magát. Hogy hiányozni fog nekem Ági néni. Szeretném ha tudnád többet adtál Virágnak mint a beszéd fejlesztés ! Adtál neki önbizalmat adtál neki valami pluszt.  
+Köszönöm szépen.  
+Nagy érték lakozik benned és tudásodban. Kívánjuk minden úgy alakuljon ahogy szeretnétek. Örülünk hogy megismertük. Szép napot és sok sikert sok boldog percet.
+
+>Örülünk, hogy megismerhettük Ági nénit. Remek foglalkozások hétről hétre, kislányunk  beszédében rohamos fejlődést vettünk észre mióta részt vettünk a foglalkozásokon. Dorina itthon is mondja és játssza, babáival az ott tanult játékos feladatokat, mondókákat. Hálásak vagyunk mindenért amit a foglalkozások és Ági néni kiváló tudása nyújtott nekünk.
+
+> Kislányom (és én is) zárkózottabb típusok vagyunk, főleg ha új emberekről van szó. Most is kellett azért idő míg igazán felengedett,de Ági néni türelmesen megvàrta ezt☺️ mindig nagyon kedves volt vele és az első perctől láttam én is,hogy meg fog törni a jég ☺️ így is lett☺️ nagyon nagy büszkeséggel töltött el mikor mindent feladatot végre kipróbált a csoportos foglalkozáson ☺️ szerettünk nagyon Ági nénihez járni,olyannyira hogy külön is elkezdtük a tsmt tornát,amit bár csak még 1,5 hónapja kezdtünk el, mégis rengeteg fejlődést látok ☺️ szomorúak vagyunk nagyon,hogy elköltöztek, későbbiekben is úgy gondoltam ő egy biztos pont lesz nekünk akihez ha gond van ( bármilyen tanulási probléma akár) fordulhatunk. Mindenkinek szívből ajánlom ☺️ Remek szakember, akin látszik hogy nagyon szereti a gyerekeket☺️ minden jót kívánunk neki kislànyommal ☺️ ( a bérleteink közül egyet pedig eltettem Jázmin emlékes dobozkàjàba) 
+Mindent köszönünk ☺️ <cite>Jázmin anyukája</cite>
