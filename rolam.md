@@ -7,7 +7,7 @@ image: images/avatar.jpg
 
 Dr. Szabó Ágnes 
 
-![Krániczné Dr. Szabó Ágnes](/images/dr.szabo_agnes.jpg)
+![Dr. Szabó Ágnes](/images/dr.szabo_agnes.jpg)
 #### Tanulmányok
 **2007-2010** Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, magyar alapszakos bölcsész, művelődéstudomány szakirány (BA)  
 **2009-2010** Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar, kísérleti és alkalmazott fonetika című önálló program  
